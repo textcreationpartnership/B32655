@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings on the King's commissions at the assizes, held at Kingston upon Thames, for the county of Surrey; on Tuesday and Wednesday, the 13th. and 14th days of March, 1687/8. and in the fourth year of his Majesties reign. Giving an account of forty eight persons that was tryed. Viz. for coining, murther, felony, and burglary.</title>
+            <author>Great Britain. Assizes (Surrey, England)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32655</idno><idno type="EEBO-CITATION">99887388</idno>
+  <idno type="VID">189619</idno>
+  <idno type="EEBO-PROQUEST">2240890989</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[125]</idno>
+            <idno type="PROQUEST">ocm99887388</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887388e"/>
+            <note>(EEBO-TCP ; phase 2, no. B32655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189619)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[126])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings on the King's commissions at the assizes, held at Kingston upon Thames, for the county of Surrey; on Tuesday and Wednesday, the 13th. and 14th days of March, 1687/8. and in the fourth year of his Majesties reign. Giving an account of forty eight persons that was tryed. Viz. for coining, murther, felony, and burglary.</title>
+                  <author>Great Britain. Assizes (Surrey, England)</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom, at the Blue-Ball in Thames-street, near Baynard's-Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Crime and criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:189619:1"/>
+            <pb n="1" facs="tcp:189619:1"/>
+            <head>THE PROCEEDINGS ON THE King's Commissions AT THE ASSIZES, HELD AT Kingston upon Thames, For the County of SURREY: ON <hi>Tuesday</hi> and <hi>Wednesday,</hi> the 13th. and 14th days of <hi>March,</hi> 1687/8. <hi>And in the fourth Year of his Majesties Reign.</hi> Giving an Account of Forty Eight Persons that was Tryed. <hi>Viz.</hi> for Coining, Murther, Felony, and Burglary.</head>
+            <list>
+               <head>The Names of the <hi>Jury</hi> are as followeth.</head>
+               <item>
+                  <hi>John Ladd</hi>
+               </item>
+               <item>
+                  <hi>John Cann</hi>
+               </item>
+               <item>
+                  <hi>William Mayo</hi>
+               </item>
+               <item>
+                  <hi>Thomas Stanton</hi>
+               </item>
+               <item>
+                  <hi>Richard Cruse</hi>
+               </item>
+               <item>
+                  <hi>John Washington</hi>
+               </item>
+               <item>
+                  <hi>Leonard Washington</hi>
+               </item>
+               <item>
+                  <hi>Robert Metcalfe</hi>
+               </item>
+               <item>
+                  <hi>John Roberts</hi>
+               </item>
+               <item>
+                  <hi>John Fletcher</hi>
+               </item>
+               <item>
+                  <hi>Moses Johnson</hi>
+               </item>
+               <item>
+                  <hi>Richard Patrick.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Tryals of the Prisoners were as follows.</head>
+               <item>
+                  <hi>MAtthew Wright</hi> and <hi>John Stephens,</hi> were Indicted upon Suspicion of Breaking and Robbing the House of <hi>Benjamin Fisher,</hi> and taking from thence a Silver Spoon, value ten Shillings and several other Goods; but the Evidence being slight against them, they were both Acquitted.</item>
+               <item>
+                  <hi>George Oxford</hi> was Indicted for steal<g ref="char:EOLhyphen"/>ing, Two Silver Spoons from <hi>John Athey</hi> Gent. He was also Indicted for stealing out of the Cupboard of <hi>Thomas Ward,</hi> a Silver Tankard, value Six Pound; to both which he pleaded Guilty.</item>
+               <pb n="2" facs="tcp:189619:2"/>
+               <item>
+                  <hi>William Glasborough,</hi> was Indicted for picking the Pocket of <hi>Jane Seyman,</hi> and taking out thence a Bag, in which was four Shillings and Six pence in Money, and a silver Thimble; but she not charging it fully upon the Prisoner, he was Acquitted.</item>
+               <item>
+                  <hi>Daniel Barrett,</hi> was Indicted for stealing from <hi>Thomas Bryan</hi> a Table-cloath; and also charged upon Suspi<g ref="char:EOLhyphen"/>cion of stealing a silver Tankard from <hi>William Price:</hi> But the Witnesses not being positive in their Evidence, he was brought in not Guilty.</item>
+               <item>
+                  <hi>William Dodson,</hi> was Indicted for stealing six Fowls from <hi>William Nash;</hi> but the Evidence being slender against him, he was Acquitted.</item>
+               <item>
+                  <hi>Thomas Vaine,</hi> was Indicted upon Suspicion of Breaking open the House of <hi>John Sherwood,</hi> between the Hours of Two and Four in the Afternoon, and taking from thence several Goods, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lue of Five pound; but he was brought in guilty of the Felony only.</item>
+               <item>
+                  <hi>Nicholas Towers, Andrew Doller,</hi> and <hi>Abigail Camell,</hi> were Indicted upon Suspicion of Robbing the House of <hi>Henry Mordon,</hi> and taking Goods and Money to a considerable value: The proof was plain against <hi>Doller,</hi> who was found guilty of Felony and Burg<g ref="char:EOLhyphen"/>lary, but the other two were Acquit<g ref="char:EOLhyphen"/>ted.</item>
+               <item>
+                  <hi>Giles Barnes</hi> and <hi>Edward Robinson,</hi> were Indicted for feloniously stealing out of the House of <hi>Ann Radcliffe</hi> in <hi>Thames-street,</hi> one Moehair Petticoat, value Eight Shillings, and several other Goods, to the value of forty six Shil<g ref="char:EOLhyphen"/>lings. <hi>Barnes</hi> was found guilty of the Felony and Burglary, but <hi>Robinson</hi> was Acquitted.</item>
+               <item>
+                  <hi>William Swanton,</hi> was Indicted for stealing a Brandy Cup, value Two Shil<g ref="char:EOLhyphen"/>lings, one Moehair Crimson Petticoat with Silver Lace, and a Broad-cloath Waste-coat, value forty Shillings; for which he was brought in Guilty.</item>
+               <item>
+                  <hi>William Mayden,</hi> was Indicted for feloniously stealing the Wearing Appa<g ref="char:EOLhyphen"/>rel of <hi>Thomas Jarvis,</hi> and was brought in guilty to the value of Ten pence.</item>
+               <item>
+                  <hi>Charles Bucknell,</hi> was Indicted on Suspicion of stealing ten Hoggs, and he pleaded Guilty, confessing the Fact.</item>
+               <item>
+                  <hi>John Gaines</hi> was Indicted on Suspi<g ref="char:EOLhyphen"/>cion of stealing a Black Gelded Colt, but there being no positive Proof against him, he was Acquitted.</item>
+               <item>
+                  <hi>Richard Starkey</hi> and <hi>Henry Porringer,</hi> Indicted for stealing a Horse, but the Evidence being plain against them, they were both brought in Guilty.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Suttibey,</hi> Indicted for Break<g ref="char:EOLhyphen"/>ing in <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> House of <hi>Thomas Reffey,</hi> bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>g no Evidence against h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was Acquitted.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ane Stephens, Martha Berry,</hi> and <hi>Thomas Woodcock,</hi> were Indicted for Breaking open the House of <hi>Isabella Simpson,</hi> and taking from thence seve<g ref="char:EOLhyphen"/>ral parcels of Linnen and Lace to a considerable value: But the Evidence not being positive against either of the two Women, they were both Ac<g ref="char:EOLhyphen"/>quitted, and <hi>Thomas Woodcock</hi> was brought in guilty of the Felony and Burglary.</item>
+               <item>
+                  <hi>Thomas Johnson,</hi> Indicted on the ac<g ref="char:EOLhyphen"/>count of stealing five Hoggs, and they being found in his Custody, and he ha<g ref="char:EOLhyphen"/>ving little to say for himself, he was brought in Guilty.</item>
+               <item>
+                  <hi>Robert Sigswick,</hi> was Indicted upon Suspicion of stealing a Horse: He con<g ref="char:EOLhyphen"/>fessed the Indictment, and was brought in Guilty.</item>
+               <item>
+                  <hi>Thomas Diggs,</hi> alias <hi>Granwall,</hi> was In<g ref="char:EOLhyphen"/>dicted upon the account of Felony and Burglary, but no Proof being against him he was Acquitted.</item>
+               <pb n="3" facs="tcp:189619:2"/>
+               <item>One <hi>Jaekson</hi> was Indicted on Suspi<g ref="char:EOLhyphen"/>cion of stealing a Horse, but he pro<g ref="char:EOLhyphen"/>ducing the Man that he hired the Horse of, he own'd that he lent the Horse to <hi>Jackson:</hi> they asked him how he came by it, but giving no good Account thereof to the Court, he was taken in<g ref="char:EOLhyphen"/>to Custody and <hi>Jackson</hi> Acquitted.</item>
+               <item>Two Brothers were Indicted for Robbing of <hi>John Green,</hi> and <hi>William Rutland,</hi> on the King's High-way, and taking from them a silver Watch, and fifty Shillings in Money: Also upon another Indictment, for Murthering <hi>Philip Earnly,</hi> who persued them, they were found Guilty of both.</item>
+               <item>
+                  <hi>Robert Lyme,</hi> was Indicted for felo<g ref="char:EOLhyphen"/>niously entring the House of <hi>John Wild,</hi> and stealing from thence a Coat and Breeches, a Black Scarf, and a Gold Ring, to the value of forty Shillings. He was found guilty only of the Fe<g ref="char:EOLhyphen"/>lony.</item>
+               <item>
+                  <hi>Elizabeth Ricketts,</hi> Indicted for steal<g ref="char:EOLhyphen"/>ing several parcels of Wearing Apparel, which she Confessed, and was brought in guilty of the Felony.</item>
+               <item>
+                  <hi>Jone Goodger,</hi> was Indicted for stealing a parcel of Linnen, worth thirty four Shillings, being the Goods of <hi>Francis Alexander,</hi> and it being plainly proved upon her, she was brought in guilty of Felony.</item>
+               <item>
+                  <hi>Elizabeth Eaton,</hi> was Indicted for stealing a Coat and Breeches, and a Sarsnet Hood from <hi>Robert Lee;</hi> all which she Confess'd, and was brought in guilty of Felony.</item>
+               <item>
+                  <hi>Mary Boone,</hi> Indicted for stealing several parcels of Household Goods from <hi>Anthony Crumwell:</hi> She confessed the Indictment and was found guilty of the Felony to the value of 10 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Sarah Bynum,</hi> was Indicted for steal<g ref="char:EOLhyphen"/>ing from <hi>Mary Michell,</hi> seven Pound, part being in Guinea Gold; but the Evidence not being positive, she was Acquitted.</item>
+               <item>
+                  <hi>Elizabeth Hill,</hi> Indicted for feloni<g ref="char:EOLhyphen"/>ously taking away from <hi>Frances,</hi> the Wife of <hi>William Turner,</hi> Linnen and Wearing Apparel to the value of twen<g ref="char:EOLhyphen"/>ty Shillings: The Evidence was full against her, so she was brought in guil<g ref="char:EOLhyphen"/>ty of Felony.</item>
+               <item>
+                  <hi>John Drew,</hi> Indicted for Stealing a Sheet, a Cleaver, and Still-yard Weights, was brought in guilty to the value of Ten pence.</item>
+               <item>
+                  <hi>Robert Thomson,</hi> who was brought from <hi>Newgate,</hi> being lately Taken, was Indicted for a Murther committed about two years since, and was found guilty of Manslaughter.</item>
+               <item>
+                  <hi>William Morris,</hi> was Indicted on the account of Clippihg and Coining, but the Evidence was so small against him, that the Court Fined him.</item>
+               <item>
+                  <hi>Thomas Pinnock,</hi> was Indicted on Suspicion of Stealing some Iron from <hi>Alexander Martin,</hi> but there being no Evidence against him, he was Ac<g ref="char:EOLhyphen"/>quitted.</item>
+               <item>
+                  <hi>Sybill Gole,</hi> was Indicted for Wash<g ref="char:EOLhyphen"/>ing of Brass Money, and putting it away for good: She was brought in guilty to the value of Ten pence.</item>
+               <item>
+                  <hi>William Davies,</hi> alias <hi>David Smith,</hi> alias <hi>Michell,</hi> alias <hi>Mutton,</hi> Indicted on Sus<g ref="char:EOLhyphen"/>picion of Stealing several Hats, but the Evidence not being positive against him, he was acquitted.</item>
+               <item>
+                  <hi>Francis Stainey</hi> Indicted for Steal<g ref="char:EOLhyphen"/>ing a Gold Ring, value Ten Shillings,
+<pb n="4" facs="tcp:189619:3"/>from <hi>William Windal,</hi> but there being no Evidence as to Proof, he was Ac<g ref="char:EOLhyphen"/>quitted.</item>
+               <item>
+                  <hi>Philip Taylor,</hi> was Indicted for Steal<g ref="char:EOLhyphen"/>ing two Baggs of Spanish Wool, from <hi>Edward Waker,</hi> but nothing appearing upon proof, he was Acquitted.</item>
+               <item>Tow Persons were Indicted for As<g ref="char:EOLhyphen"/>saulting the Body of <hi>Henry Glover,</hi> Esq; and others, and by their encreasing of the said Riot, one Man was Killed and several Wounded; but they put in a Plea, to Travise it till next Assises.</item>
+               <item>
+                  <hi>VVilliam Jones,</hi> alias <hi>Summers,</hi> and <hi>Richard Edwards,</hi> Indicted for Breaking open the House of <hi>Mary Lloyd</hi> Widdow, at <hi>Peckham,</hi> and taking from thence 200 Guinea's, a Watch, with several Broad Pieces of Gold, and seve<g ref="char:EOLhyphen"/>ral French Pistols, being in all to the value of Five hundred Pound; the Witnesses were very positive as to the Burglary and Felony, of which they were both found Guilty.</item>
+               <item>
+                  <hi>VVilliam Haynes,</hi> was Indicted on the account of Murther; but he producing several Wit<g ref="char:EOLhyphen"/>nesses as to his good Behaviour, and that he only by Fithing fell upon the Deceased Person, and the Coroner's Inquest speak<g ref="char:EOLhyphen"/>ing as to the Clearness of the Corps of the Deceased, there Being no hurt about him, the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y brought him in guilty of Manslaughter.</item>
+            </list>
+            <p>The Tryals being over, the Court proceeded to give Judg<g ref="char:EOLhyphen"/>ment as follows.</p>
+            <list>
+               <head>Eight Persons received Sentence of Death, <hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>Richard Starkey,</hi>
+               </item>
+               <item>
+                  <hi>Henry Porringer,</hi>
+               </item>
+               <item>
+                  <hi>Robert Sigswick,</hi>
+               </item>
+               <item>
+                  <hi>J— B—</hi>
+               </item>
+               <item>
+                  <hi>T— B—</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Jones,</hi>
+               </item>
+               <item>
+                  <hi>Richard Edwards,</hi>
+               </item>
+               <item>
+                  <hi>Thomas VVoodcock.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Thirteen Persons Burn'd in the Hand.</head>
+               <item>
+                  <hi>George Oxford,</hi>
+               </item>
+               <item>
+                  <hi>Andrew Doller,</hi>
+               </item>
+               <item>
+                  <hi>Giles Barnes,</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Swanton,</hi>
+               </item>
+               <item>
+                  <hi>Charles Bucknell,</hi>
+               </item>
+               <item>
+                  <hi>Thomas Johnson,</hi>
+               </item>
+               <item>
+                  <hi>Robert Lyme,</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Ricketts,</hi>
+               </item>
+               <item>
+                  <hi>Jane Goodger,</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Eaton,</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Hill,</hi>
+               </item>
+               <item>
+                  <hi>Robert Thompson,</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Haynes.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Six Persons ornered to be Whipt.</head>
+               <item>
+                  <hi>Thomas Vaine,</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Mayden,</hi>
+               </item>
+               <item>
+                  <hi>Mary Boone,</hi>
+               </item>
+               <item>
+                  <hi>John Drew,</hi>
+               </item>
+               <item>
+                  <hi>Sybill Gale,</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Morris.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This may be Printed,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>March 19th.</date>
+               </dateline>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Groom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-street,</hi> near <hi>Baynard</hi>'s-<hi>Castle.</hi> 1688.</p>
+            <pb facs="tcp:189619:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
